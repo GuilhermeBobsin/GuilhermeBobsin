@@ -12,6 +12,7 @@ Estou atualmente no segundo semestre do curso de Análise e Desenvolvimento de S
 ## Áreas de Interesse
 
 💻 Desenvolvimento Fullstack
+
 Estou focado no desenvolvimento fullstack, unindo a criação de lógicas robustas no backend com a construção de interfaces de usuário intuitivas e responsivas no frontend. Adoro trabalhar com toda a pilha de desenvolvimento, desde a estruturação de bancos de dados e servidores até a entrega de experiências de usuário completas e funcionais.
 
 ## Projetos
